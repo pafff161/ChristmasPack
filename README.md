@@ -1,6 +1,6 @@
 # ChristmasPack
 ## Mods die zusätzlich installiert werden müssen:
-Link to the sample section: [https://www.curseforge.com/minecraft/mc-mods/christmas-delight](#sample-section).
+Link to the sample section: [Christmast Delight](https://www.curseforge.com/minecraft/mc-mods/christmas-delight).
  https://www.curseforge.com/minecraft/mc-mods/eternal-winter Eternal Winter 1.20.1
  https://www.curseforge.com/minecraft/mc-mods/christmas-delight Christmas Delight 1.20.1
  https://www.curseforge.com/minecraft/mc-mods/manyideas-christmas ManyIdeas Christmas 1.20.1
