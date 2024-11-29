@@ -7,4 +7,4 @@
 - [ChristmasColonies](https://www.curseforge.com/minecraft/mc-mods/christmascolonies)        Forge 1.20.1   Modversion: neuste
 
 ## Optionale Mods:
-- [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)          Forge 1.20.1   Modversion: 2.1.2-a
+- [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)          Forge 1.20.1   **_Modversion: 2.1.2-a_**
