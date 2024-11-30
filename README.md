@@ -7,6 +7,7 @@
   - [ManyIdeas Core](https://www.curseforge.com/minecraft/mc-mods/manyideas-core/download/4628679)          Forge 1.20.1   Modversion: neuste
 - [ChristmasColonies](https://www.curseforge.com/minecraft/mc-mods/christmascolonies/download/5949519)        Forge 1.20.1   Modversion: neuste
 - [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines/download/5940832)  Forge 1.20.1 Modversion: neuste
+- [Minecolonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies/download/5942741)          Forge 1.20.1 Modversion: neuste
 
 ## Optionale Mods:
 - [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons/download/5474790)          Forge 1.20.1   **_Modversion: 2.1.2-a_**
